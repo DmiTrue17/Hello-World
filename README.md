@@ -1,2 +1,3 @@
 # Hello-World
-hi
+hi all
+hi 0
